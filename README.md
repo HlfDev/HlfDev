@@ -12,7 +12,7 @@ E estou estudando para me tornar um <b>Desenvolvedor Full-Stack </b>.
 
 - 💻 Atualmente estou estudando back-end com **Express** e utilizando o framework **Node.js**, front-end com **React**, e **Flutter** no mobile;
 
-- ⚡ Sou uma pessoa bem generalista, adoro aprender coisas novas relacionadas a tecnologia, e o que mais me dá satisfação são desafios, por este motivo estou sempre estudando para evoluir minha carreira;
+- ⚡ Sou uma pessoa bem generalista, adoro aprender coisas novas relacionadas a tecnologia, e o que mais me dá satisfação são os desafios, por este motivo estou sempre estudando para evoluir minha carreira;
 
 - 🎲 Meus hobbies são: 
   - Ler livros;
