@@ -16,7 +16,7 @@ Atualmente estou estudando para me tornar um <b>Desenvolvedor Full-Stack </b> �
 
 - 🎲 Meus hobbies são: 
   - Ler livros;
-  - Assistir series;
+  - Assistir séries;
   - Jogar jogos online (League of Legends e Valorant);
 
 - 📫 Se quiser pode enviar um e-mail para pedrohlf.contato@gmail.com.
