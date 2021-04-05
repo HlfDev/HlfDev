@@ -1,9 +1,13 @@
 ### Olá 🖐️, meu nome é [Pedro Henrique!](#)
-<a href="https://#">
+<a href="#">
   <img align="left" alt="Mehdi's LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://www.kaggle.com/mehdimabrouki">
+<a href="#">
   <img align="left" alt="Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/twitter.svg" />
+</a>
+
+<a href="#">
+  <img align="left" alt="Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gmail.svg" />
 </a>
 
 <br />
@@ -26,8 +30,6 @@ Atualmente estou estudando para me tornar um <b>Desenvolvedor Full-Stack </b> �
   - Ler livros;
   - Assistir séries;
   - Jogar jogos online (League of Legends e Valorant).
-
-- 📫 Se quiser pode enviar um e-mail para pedrohlf.contato@gmail.com;
 
 - 📝 Veja meu <a href="#" target="_blank">Currículo</a> para mais informações.
 
