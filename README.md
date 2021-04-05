@@ -5,9 +5,8 @@ Me chamo <b> Pedro Henrique </b>.
 Atualmente moro em Campinas/SP.<br />
 E estou estudando para me tornar um <b>Desenvolvedor Full-Stack </b>.
 </p>
-<hr />
 
-**Meus interesses pessoais:**
+### **Meus interesses pessoais:**
 
 <img align="right" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1617585180769.png" width="400px" />
 
@@ -22,9 +21,8 @@ E estou estudando para me tornar um <b>Desenvolvedor Full-Stack </b>.
 
 - 📫 Se quiser pode enviar um e-mail para pedrohlf.contato@gmail.com.
 
-- 📝 Veja meu <a href="https://drive.google.com/file/d/1Bpaj349XlLLYHCVUsrIdt15Y-JP_tR57/view?usp=drivesdk" target="_blank">Currículo</a> para mais informações.
+- 📝 Veja meu <a href="#" target="_blank">Currículo</a> para mais informações.
 
-<hr>
 <div style="margin:  auto;">
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hlfdev&layout=compact&theme=graywhite&title_color=268bd2" alt="HlfDev" />
@@ -34,9 +32,6 @@ E estou estudando para me tornar um <b>Desenvolvedor Full-Stack </b>.
 <p>&nbsp;
   <img src="https://github-readme-stats.vercel.app/api?username=HlfDev&count_private=true&show_icons=true&theme=graywhite&icon_color=268bd2&title_color=268bd2" alt="HlfDev" />
 </p>
-
-
-<hr>
 
 **Linguagens e ferramentas:**  
 
