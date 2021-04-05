@@ -14,7 +14,7 @@
 <br />
 
 Tenho 21 anos, moro em Campinas/SP, Brasil.<br />
-estudando para me tornar um <b>Desenvolvedor Full-Stack </b> 🧪.
+Estudando para me tornar um <b>Desenvolvedor Full-Stack </b> 🧪.
 </p>
 
 ### **Meus interesses pessoais:**
