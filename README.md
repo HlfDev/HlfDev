@@ -5,7 +5,7 @@ Um pouco sobre mim é que sou uma pessoa bem generalista, adoro aprender coisas 
 
 ⚡ Minhas Habilidades: HTML5, CSS3, Visual Basic, C#, Node.JS, TypeScript, Flutter, SQL, Linux.
 
-💻 Estudando atualmente: Angular, UI Design.
+💻 Estudando atualmente: React, UI Design.
 
 ⏰ O que Pretendo aprender futuramente: Cloud Computing, Front-end Development.
 
