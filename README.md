@@ -14,12 +14,13 @@ Atualmente estou estudando para me tornar um <b>Desenvolvedor Full-Stack </b> �
 
 - ⚡ Sou uma pessoa bem generalista, adoro aprender coisas novas relacionadas a tecnologia, e o que mais me dá satisfação são os desafios, por este motivo estou sempre estudando para evoluir minha carreira;
 
-- 🎲 Meus hobbies são: 
+- 🎮 Meus hobbies são:
+  - Design Gráfico; 
   - Ler livros;
   - Assistir séries;
-  - Jogar jogos online (League of Legends e Valorant);
+  - Jogar jogos online (League of Legends e Valorant).
 
-- 📫 Se quiser pode enviar um e-mail para pedrohlf.contato@gmail.com.
+- 📫 Se quiser pode enviar um e-mail para pedrohlf.contato@gmail.com;
 
 - 📝 Veja meu <a href="#" target="_blank">Currículo</a> para mais informações.
 
