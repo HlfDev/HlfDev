@@ -39,7 +39,7 @@ Estudando para me tornar um <b>Desenvolvedor Full-Stack </b> 🧪.
 
 <img align="right" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1617585180769.png" width="400px" />
 
-- 💻 Atualmente estou estudando back-end com **Express** e utilizando o framework **Node.js**, front-end com **React**, e **Flutter** no mobile;
+- 💻 Atualmente estou estudando back-end com **Express** e utilizando o framework **Node.js**, front-end com **Angular**, e **Flutter** no mobile;
 
 - ⚡ Sou uma pessoa bem generalista, adoro aprender coisas novas relacionadas a tecnologia, e o que mais me dá satisfação são os desafios, por este motivo estou sempre estudando para evoluir minha carreira;
 
