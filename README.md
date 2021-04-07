@@ -31,6 +31,10 @@ Tenho 21 anos, moro em Campinas/SP, Brasil.<br />
 Estudando para me tornar um <b>Desenvolvedor Full-Stack </b> 🧪.
 </p>
 
+### **🎵 O que estou ouvindo no Momento**
+
+[![Spotify](https://spotify-play-now-ibf52k734-hlfdev.vercel.app/api/spotify)](https://open.spotify.com/user/k4oda253t79zgevimlmu66jow?si=6LaXuHVZR4WTKP4qIITp8w)
+
 ### **Meus interesses pessoais:**
 
 <img align="right" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1617585180769.png" width="400px" />
