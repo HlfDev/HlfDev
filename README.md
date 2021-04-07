@@ -4,23 +4,23 @@
   <img align="left" alt="HlfDev LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
-<a href="https://twitter.com/HlfDev" target="_blank">
+<a href="https://twitter.com/HlfDev" target="_blank" >
   <img align="left" alt="HlfDev Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/twitter.svg" />
 </a>
 
-<a href="https://dev.to/hlfdev" target="_blank">
+<a href="https://dev.to/hlfdev" target="_blank" >
   <img align="left" alt="hlfdev dev.to" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/dev-dot-to.svg" />
 </a>
 
-<a href="https://codepen.io/HlfDev" target="_blank">
+<a href="https://codepen.io/HlfDev" target="_blank" >
   <img align="left" alt="hlfdev codepen" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codepen.svg" />
 </a>
 
-<a href="https://www.figma.com/@hlfdev" target="_blank">
+<a href="https://www.figma.com/@hlfdev" target="_blank" >
   <img align="left" alt="hlfdev figma" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/figma.svg" />
 </a>
 
-<a href="mailto:pedrohlf.contato@gmail.com" target="_blank">
+<a href="mailto:pedrohlf.contato@gmail.com" target="_blank" >
   <img align="left" alt="hlfdev e-mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/gmail.svg" />
 </a>
 
