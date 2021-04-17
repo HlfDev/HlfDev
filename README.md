@@ -85,5 +85,5 @@ Studying to become a <b> Full-Stack Developer </b> 🧪.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hlfdev" alt="HlfDev" /> </p>
 
-⭐️ Readme Baseado em [CallmeMehdi](https://github.com/CallmeMehdi)
+⭐️ Readme Based on [CallmeMehdi](https://github.com/CallmeMehdi)
 
