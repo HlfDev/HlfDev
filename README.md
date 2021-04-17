@@ -1,4 +1,4 @@
-### Olá 🖐️, meu nome é [Pedro Henrique!](#)
+### Hello 🖐️, my name is [Pedro Henrique!](#)
 
 <a href="https://www.linkedin.com/in/pedro-henrique-66892116a/" target="_blank" >
   <img align="left" alt="HlfDev LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -27,29 +27,29 @@
 <br />
 <br />
 
-Tenho 21 anos, moro em Campinas/SP, Brasil.<br />
-Estudando para me tornar um <b>Desenvolvedor Full-Stack </b> 🧪.
+I am 21 years old, I live in Campinas / SP, Brazil. <br />
+Studying to become a <b> Full-Stack Developer </b> 🧪. 
 </p>
 
-### **O que estou ouvindo no Momento 🎵**
+### **What I'm hearing right now 🎵**
 
 [![Spotify](https://spotify-play-now-ibf52k734-hlfdev.vercel.app/api/spotify)](https://open.spotify.com/user/k4oda253t79zgevimlmu66jow?si=6LaXuHVZR4WTKP4qIITp8w)
 
-### **Meus interesses pessoais:**
+### **My personal interests:**
 
 <img align="right" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1617585180769.png" width="400px" />
 
-- 💻 Atualmente estou estudando back-end com **Express** e utilizando o framework **Node.js**, front-end com **Angular**, e **Flutter** no mobile;
+- 💻 I am currently studying backend with **Express** and using the framework **Node.js**, frontend with **Angular**, and **Flutter** on mobile;
 
-- ⚡ Sou uma pessoa bem generalista, adoro aprender coisas novas relacionadas a tecnologia, e o que mais me dá satisfação são os desafios, por este motivo estou sempre estudando para evoluir minha carreira;
+- ⚡ I am a very generalist person, I love learning new things related to technology, and what gives me the most satisfaction are the challenges, for this reason I am always studying to evolve my career;
 
-- 🎮 Meus hobbies são:
-  - Design Gráfico; 
-  - Ler livros;
-  - Assistir séries;
-  - Jogar jogos online (League of Legends e Valorant).
+- 🎮 My hobbies are:
+  - Graphic design; 
+  - Read books;
+  - Watch series;
+  - Play online games (League of Legends and Valorant).
 
-- 📝 Veja meu <a href="#" target="_blank">Currículo</a> para mais informações.
+- 📝 See my <a href="#" target="_blank">professional resume</a> for more information.
 
 <div style="margin:  auto;">
 <p>
@@ -61,7 +61,7 @@ Estudando para me tornar um <b>Desenvolvedor Full-Stack </b> 🧪.
   <img src="https://github-readme-stats.vercel.app/api?username=HlfDev&count_private=true&show_icons=true&theme=graywhite&icon_color=268bd2&title_color=268bd2" alt="HlfDev" />
 </p>
 
-**Linguagens e ferramentas:**  
+**Languages and tools:**  
 
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> 
