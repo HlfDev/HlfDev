@@ -39,7 +39,7 @@ Studying to become a <b> Full-Stack Developer </b> 🧪.
 
 <img align="right" alt="GIF" src="https://octocat-generator-assets.githubusercontent.com/my-octocat-1617585180769.png" width="400px" />
 
-- 💻 I am currently studying backend with **Express** and using the framework **Node.js** and **Flutter** on mobile;
+- 💻 I am currently studying backend with **Express** and using the framework **Node.js**, and I'm also studying **Flutter** on mobile;
 
 - ⚡ I am a very generalist person, I love learning new things related to technology, and what gives me the most satisfaction are the challenges, for this reason I am always studying to evolve my career;
 
