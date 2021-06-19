@@ -49,7 +49,7 @@ Studying to become a <b> Full-Stack Developer </b> 🧪.
   - Watch series;
   - Play online games (League of Legends and Valorant).
 
-- 📝 See my <a href="#" target="_blank">professional resume</a> for more information.
+- 📝 See my <a href="https://www.canva.com/design/DAEdFfj3FPc/x_5ssEFW71ScHdQnEw7sAQ/view?utm_content=DAEdFfj3FPc&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton" target="_blank">professional resume</a> for more information.
 
 <div style="margin:  auto;">
 <p>
