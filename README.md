@@ -27,7 +27,7 @@
 <br />
 <br />
 
-I am 21 years old, I live in Campinas / SP, Brazil. <br />
+I am 22 years old, I live in Campinas / SP, Brazil. <br />
 Studying to become a <b> Full-Stack Developer </b> 🧪. 
 </p>
 
