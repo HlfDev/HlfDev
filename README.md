@@ -1,6 +1,6 @@
 ### Hello 🖐️, my name is Pedro Henrique!
 
-[LinkedIn](https://www.linkedin.com/in/pedro-henrique-66892116a/) | [Twitter](https://twitter.com/HlfDev) | [Dev.to](https://dev.to/hlfdev) | [CodePen](https://codepen.io/HlfDev) | [Figma](https://www.figma.com/@hlfdev) | [Email](mailto:pedrohlf.contato@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/pedro-henrique-66892116a/) | [Twitter](https://twitter.com/HlfDev) | [Medium](https://medium.com/@hlfdev) | [Email](mailto:pedrohlf.contato@gmail.com)
 
 Hello! I'm a technology enthusiast, passionate about challenges, and always in pursuit of new knowledge to continuously grow.
 
