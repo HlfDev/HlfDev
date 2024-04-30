@@ -1,6 +1,6 @@
 ### Hello 🖐️, my name is Pedro Henrique!
 
-[LinkedIn](https://www.linkedin.com/in/pedro-henrique-66892116a/) | [Twitter](https://twitter.com/HlfDev) | [Medium](https://medium.com/@hlfdev) | [Email](mailto:pedrohlf.contato@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/pedro-henrique-66892116a/) | [Medium](https://medium.com/@hlfdev) | [Email](mailto:pedrohlf.contato@gmail.com)
 
 Hello! I'm a technology enthusiast, passionate about challenges, and always in pursuit of new knowledge to continuously grow.
 
@@ -19,7 +19,7 @@ If you share this passion for technology and are constantly seeking to enhance y
 - Watching series
 - Playing online games (League of Legends and Valorant)
 
-📝 See my [professional resume](https://www.canva.com/design/DAEdFfj3FPc/x_5ssEFW71ScHdQnEw7sAQ/view?utm_content=DAEdFfj3FPc&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton) for more information.
+📝 See my [professional resume](https://drive.google.com/file/d/1hViuH9-OzuWL2ZOLVzkgKXyjMNzYArl-/view?usp=drive_link) for more information.
 
 <div style="display: flex; flex-direction: column; align-items: center;">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hlfdev&layout=compact&theme=graywhite&title_color=268bd2" alt="HlfDev" />
